@@ -11,4 +11,8 @@ pip install zhconv eyed3
 ```
 
 2. 在对象路径下运行本脚本
-3. 通过输入 1 或 2 来选择简繁
+
+```
+python id3zhconv.py
+```
+4. 通过输入 1 或 2 来选择简繁
