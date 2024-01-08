@@ -15,4 +15,4 @@ pip install zhconv eyed3
 ```
 python id3zhconv.py
 ```
-4. 通过输入 1 或 2 来选择简繁
+3. 通过输入 1 或 2 来选择简繁
